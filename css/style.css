@@ -5,3 +5,25 @@
 .nav-link{
     color: white;
 }
+
+footer{
+    background-color: rgb(94, 152, 196) !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.car-img{
+    max-height: 700px !important;
+}
+
+.carousel-caption{
+    background-color: rgba(94, 152, 196, 0.48) !important;
+}
+
+.divisão{
+    background-color:rgb(94, 152, 196) ;
+    text-align: center;
+    color: white;
+    padding: 2em;
+    margin-bottom: 5em;
+}
