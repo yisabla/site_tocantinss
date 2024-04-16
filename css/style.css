@@ -13,7 +13,7 @@ footer{
 }
 
 .car-img{
-    max-height: 700px !important;
+    max-height: 900px !important;
 }
 
 .carousel-caption{
@@ -25,5 +25,25 @@ footer{
     text-align: center;
     color: white;
     padding: 2em;
-    margin-bottom: 5em;
 }
+
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin-bottom: 1%;
+}
+
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1%;
+}
+
+.card p{
+    text-align: justify !important;
+}
+
+.card h4{
+    color: rgb(23, 91, 144);
+}
+
