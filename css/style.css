@@ -47,3 +47,24 @@ footer{
     color: rgb(23, 91, 144);
 }
 
+
+    
+.links {
+    text-align: center !important;
+    padding: 1em !important;
+    color: rgb(0, 0, 0) !important;
+    padding: 4% 0% 0% 5% !important;
+}
+
+.mapa{
+    margin-top: 10%!important;
+}
+
+.sec-contatos{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+
